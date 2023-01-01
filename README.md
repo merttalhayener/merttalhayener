@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @merttalhayener
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity
-- I'm currently working on a project called "Gray" for my school. You can see the development phase on the repository.
+- I'm currently working on a project called "Gray" for my school. You can see the development progress on the repository.
 
 <!---
 merttalhayener/merttalhayener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
