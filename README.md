@@ -1,5 +1,4 @@
-👋 Hi, I’m @merttalhayener,
-I’m a Game Developer.
+👋 Hi, I’m @merttalhayener, a game developer.
 
 
 <!---
