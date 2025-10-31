@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @merttalhayener
-- 👀 I’m interested in Game Development.
+👋 Hi, I’m @merttalhayener
+I’m a Game Developer.
 
 
 <!---
